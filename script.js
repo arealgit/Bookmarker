@@ -1,3 +1,3 @@
 function newBook() {
-    alert("book added");
+    alert("book added ya");
 }
